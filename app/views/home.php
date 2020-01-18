@@ -1,1 +1,0 @@
-Ini Meupakan Halamn Load dengan menggunakan model func
